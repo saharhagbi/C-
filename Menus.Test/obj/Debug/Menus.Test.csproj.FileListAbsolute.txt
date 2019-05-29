@@ -1,0 +1,11 @@
+C:\Users\Sahar Hagbi\Desktop\B19 Ex04 Lidor 312465040 Sahar 308145853\Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\Users\Sahar Hagbi\Desktop\B19 Ex04 Lidor 312465040 Sahar 308145853\Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\Users\Sahar Hagbi\Desktop\B19 Ex04 Lidor 312465040 Sahar 308145853\Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Sahar Hagbi\Desktop\B19 Ex04 Lidor 312465040 Sahar 308145853\Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\Sahar Hagbi\Desktop\B19 Ex04 Lidor 312465040 Sahar 308145853\Menus.Test\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\Sahar Hagbi\Desktop\B19 Ex04 Lidor 312465040 Sahar 308145853\Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Sahar Hagbi\Desktop\B19 Ex04 Lidor 312465040 Sahar 308145853\Menus.Test\obj\Debug\Menus.Test.csprojResolveAssemblyReference.cache
+C:\Users\Sahar Hagbi\Desktop\B19 Ex04 Lidor 312465040 Sahar 308145853\Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\Users\Sahar Hagbi\Desktop\B19 Ex04 Lidor 312465040 Sahar 308145853\Menus.Test\obj\Debug\Ex04.Menus.Test.pdb
+C:\Users\Sahar Hagbi\Desktop\MenuBuilder\Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\Users\Sahar Hagbi\Desktop\MenuBuilder\Menus.Test\obj\Debug\Ex04.Menus.Test.pdb

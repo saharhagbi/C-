@@ -1,0 +1,15 @@
+c:\users\lidor tevet\documents\visual studio 2015\Projects\B19 Ex03 Lidor 312465040 Sahar 308145853\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+c:\users\lidor tevet\documents\visual studio 2015\Projects\B19 Ex03 Lidor 312465040 Sahar 308145853\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+c:\users\lidor tevet\documents\visual studio 2015\Projects\B19 Ex03 Lidor 312465040 Sahar 308145853\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojResolveAssemblyReference.cache
+c:\users\lidor tevet\documents\visual studio 2015\Projects\B19 Ex03 Lidor 312465040 Sahar 308145853\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+c:\users\lidor tevet\documents\visual studio 2015\Projects\B19 Ex03 Lidor 312465040 Sahar 308145853\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Sahar Hagbi\Desktop\B19 Ex03 Lidor 312465040 Sahar 308145853\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojResolveAssemblyReference.cache
+C:\Users\Sahar Hagbi\Desktop\B19 Ex03 Lidor 312465040 Sahar 308145853\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Sahar Hagbi\Desktop\B19 Ex03 Lidor 312465040 Sahar 308145853\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Sahar Hagbi\Desktop\B19 Ex03 Lidor 312465040 Sahar 308145853\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Sahar Hagbi\Desktop\B19 Ex03 Lidor 312465040 Sahar 308145853\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Sahar Hagbi\Desktop\B19 Ex04 Lidor 312465040 Sahar 308145853\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojResolveAssemblyReference.cache
+C:\Users\Sahar Hagbi\Desktop\B19 Ex04 Lidor 312465040 Sahar 308145853\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Sahar Hagbi\Desktop\B19 Ex04 Lidor 312465040 Sahar 308145853\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Sahar Hagbi\Desktop\B19 Ex04 Lidor 312465040 Sahar 308145853\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Sahar Hagbi\Desktop\B19 Ex04 Lidor 312465040 Sahar 308145853\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
